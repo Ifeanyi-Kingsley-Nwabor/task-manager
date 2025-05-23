@@ -74,12 +74,12 @@ services:
 
 
 
-  volumes:
+volumes:
     db_data:
 
 
 
-  networks:
+networks:
     tasknet:
 
 
